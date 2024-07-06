@@ -60,5 +60,3 @@ def index_post():
         original_text=original_text,
         target_language=target_language
     )
-if __name__=="_main_":
-   app.run(debug=False,host='0.0.0.0')
